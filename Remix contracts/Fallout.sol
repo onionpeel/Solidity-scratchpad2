@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT
 pragma solidity ^0.8;
 
 // Solution to Ethernaut #2 from Smart Contract Programmer. 
